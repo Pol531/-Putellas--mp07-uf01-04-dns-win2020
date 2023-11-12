@@ -44,6 +44,15 @@ A continuació, he posat els registres CNAME:
 |**Amic13**|**Roger_Legido**|
 ![image](https://github.com/Pol531/-Putellas--mp07-uf01-04-dns-win2020/assets/145341969/422d32c5-3407-47ee-8d0b-9ca07053011d)
 
+**Pas3:**
+|Domini|Nom|
+|---|---|
+|**correuputellas.cat**|**jomateix.putellas.cat**|
+
+![image](https://github.com/Pol531/-Putellas--mp07-uf01-04-dns-win2020/assets/145341969/008eebcb-8b64-4181-a27c-26bd8a2b993c)
+(dins de cada carpeta està el MX de cada persona)
+![image](https://github.com/Pol531/-Putellas--mp07-uf01-04-dns-win2020/assets/145341969/ce4e37bf-e6af-48d4-a0a3-64e60c394792)
+
 
 
 

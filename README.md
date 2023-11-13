@@ -1,9 +1,9 @@
 **Activitat 4: Creació d'una nova zona de DNS en un servidor Windows 2020 Server**
 
 **Pas1:**
-He creat els registres tipus A, seguint el criteri corresponent:
+He creat els registres tipus A, seguint el criteri corresponent de posar un numero que vulguem, el dia del nostre aniversari, el mes i el any. 
 
-|Nom**|**Adreça IP**|
+|Nom|**Adreça IP**|
 |---|---|
 |**Pol_Putellas**|**80.20.11.6**|
 |**Nil_Putellas**|**80.20.11.6**|
@@ -47,7 +47,21 @@ A continuació, he posat els registres CNAME:
 **Pas3:**
 |Domini|Nom|
 |---|---|
-|**correuputellas.cat**|**jomateix.putellas.cat**|
+|**correu.putellas.cat**|**jomateix.putellas.cat**|
+|**correu.nilputellas.cat**|**germà.putellas.cat**|
+|**correu.Gomez.cat**|**Amic1.Gomez.cat**|
+|**correu.Gallego**|**Amic2.Gallego.cat**|
+|**correu.Chicca**|**Amic3.Chicca.cat**|
+|**correu.Ferrer**|**Amic4.Ferrer.cat**|
+|**correu.Alcaraz**|**Amic5.Alcaraz.cat**|
+|**correu.Cayetano**|**Amic6.Cayetano.cat**|
+|**correu.Fernandez**|**Amic7.Fernandez.cat**|
+|**correu.Hernandez**|**Amic8.Hernandez.cat**|
+|**correu.Dueñas**|**Amic9.Dueñas.cat**|
+|**correu.Capel**|**Amic10.Capel.cat**|
+|**correu.Santamaria**|**Amic11.Santamaria.cat**|
+|**correu.Andres**|**Amic12.Andres.cat**|
+|**correu.Legido**|**Amic13.Legido.cat**|
 
 ![image](https://github.com/Pol531/-Putellas--mp07-uf01-04-dns-win2020/assets/145341969/008eebcb-8b64-4181-a27c-26bd8a2b993c)
 (dins de cada carpeta està el MX de cada persona)

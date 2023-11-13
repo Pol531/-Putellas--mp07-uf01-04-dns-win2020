@@ -55,6 +55,13 @@ A continuació, he posat els registres CNAME:
 
 **Pas4:**
 
+Per verificar que funciona, hem fet servir les següents comandes al cmd: 
+
+- nslookup
+- set type=CNAME
+- set type=A
+- I posem la direcció que volguem:
+
 ![image](https://github.com/Pol531/-Putellas--mp07-uf01-04-dns-win2020/assets/145341969/21f2929c-69a4-432f-a317-86b769c580f2)
 
 ![image](https://github.com/Pol531/-Putellas--mp07-uf01-04-dns-win2020/assets/145341969/88f1ff52-8b06-4b6a-82f3-f61f4a318c5d)
